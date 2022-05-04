@@ -275,3 +275,22 @@ footer a {
 .trainer-2 p {
     float: left;
 }
+
+.section-title {
+    font-size: 55px;
+    display: inline-block;
+    padding: 0 100px 20px 100px;
+    border-bottom: 3px solid;
+    margin-bottom: 35px;
+    color: #024e76;
+}
+
+.contact {
+    text-align: center;
+    background: #024e76;
+    padding-bottom: 50px;
+}
+
+.contact h2 {
+    color: #fce138;
+}
