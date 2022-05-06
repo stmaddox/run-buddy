@@ -295,11 +295,8 @@ footer a {
 }
 
 .contact-info iframe {
-    width: 500px;
-    height: 500px;
-    position: relative;
-    right: 400px;
-    top: 40px;
+    width: 400px;
+    height: 400px;
 }
 
 .contact-info div {
