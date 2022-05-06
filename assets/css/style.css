@@ -298,7 +298,7 @@ footer a {
     width: 400px;
     height: 450px;
     float: left;
-    text: right;
+    text-align: right;
 }
 
 .contact-info div {
