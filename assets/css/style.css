@@ -288,9 +288,42 @@ footer a {
 .contact {
     text-align: center;
     background: #024e76;
-    padding-bottom: 50px;
 }
 
 .contact h2 {
+    color: #fce138;
+}
+
+.contact-info iframe {
+    width: 400px;
+    height: 450px;
+    float: left;
+    text: right;
+}
+
+.contact-info div {
+    width: 410px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    margin: 30px 0 0 60px;
+    color: white;
+}
+
+.contact-info h3 {
+    color: #fce138;
+    font-size: 32px;
+}
+
+.contact-info p, .contact-info address {
+    margin: 20px 0;
+    line-height: 1.5;
+    font-size: 18px;
+    font-style: normal; 
+    color: white;
+    
+}
+
+.contact-info a {
     color: #fce138;
 }
