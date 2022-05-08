@@ -4,7 +4,7 @@
     text-align: center;
     margin-bottom: 40px;
 }
-
+/* Title Style */
 .page-title {
     color: #fce138;
     display: inline-block;
@@ -15,8 +15,15 @@
     padding-right: 80px;
     padding-bottom: 15px;
     padding-left: 80px;
-    
 }
-
-
-
+/* Title Font */
+.page-title {
+    font-weight: normal;
+    font-size: 42px;
+    font-style: italic;
+}
+/* Content Style */
+.secondary-content {
+    width: 80%;
+    margin: 0 30px 30px 0;
+}
