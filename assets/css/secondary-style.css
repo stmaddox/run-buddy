@@ -1,0 +1,22 @@
+.hero { 
+    background-position: bottom;
+    height: auto;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.page-title {
+    color: #fce138;
+    display: inline-block;
+    border-bottom: 4px;
+    border-style: solid;
+    border-color: #fce138;
+    padding-top: 0;
+    padding-right: 80px;
+    padding-bottom: 15px;
+    padding-left: 80px;
+    
+}
+
+
+
